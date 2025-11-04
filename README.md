@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Maikel, I live in Costa Rica, I am 19 years old.
+Hello, my name is Maikel, I live in Costa Rica, I am 22 years old.
 I work in software development, focused on mobile development,
 however, I also manage other areas of development.
 Some of the programming languages I use are:
